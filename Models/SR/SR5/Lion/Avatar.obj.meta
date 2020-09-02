@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 0988e864cd79738458378e9a2ae5c24c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone01
+    100004: Bone02
+    100006: Bone02(mirrored)
+    100008: Bone03
+    100010: Bone04
+    100012: Bone05
+    100014: Bone06
+    100016: Bone07
+    100018: Bone08
+    100020: Bone09
+    100022: Bone09(mirrored)
+    100024: Bone10
+    100026: Bone10(mirrored)
+    100028: lion
+    400000: //RootNode
+    400002: Bone01
+    400004: Bone02
+    400006: Bone02(mirrored)
+    400008: Bone03
+    400010: Bone04
+    400012: Bone05
+    400014: Bone06
+    400016: Bone07
+    400018: Bone08
+    400020: Bone09
+    400022: Bone09(mirrored)
+    400024: Bone10
+    400026: Bone10(mirrored)
+    400028: lion
+    2100000: Bone01Mat
+    2100002: Bone02Mat
+    2100004: Bone02(mirrored)Mat
+    2100006: Bone03Mat
+    2100008: Bone04Mat
+    2100010: Bone05Mat
+    2100012: Bone06Mat
+    2100014: Bone07Mat
+    2100016: Bone08Mat
+    2100018: Bone09Mat
+    2100020: Bone09(mirrored)Mat
+    2100022: Bone10Mat
+    2100024: Bone10(mirrored)Mat
+    2100026: lionMat
+    2300000: Bone01
+    2300002: Bone02
+    2300004: Bone02(mirrored)
+    2300006: Bone03
+    2300008: Bone04
+    2300010: Bone05
+    2300012: Bone06
+    2300014: Bone07
+    2300016: Bone08
+    2300018: Bone09
+    2300020: Bone09(mirrored)
+    2300022: Bone10
+    2300024: Bone10(mirrored)
+    2300026: lion
+    3300000: Bone01
+    3300002: Bone02
+    3300004: Bone02(mirrored)
+    3300006: Bone03
+    3300008: Bone04
+    3300010: Bone05
+    3300012: Bone06
+    3300014: Bone07
+    3300016: Bone08
+    3300018: Bone09
+    3300020: Bone09(mirrored)
+    3300022: Bone10
+    3300024: Bone10(mirrored)
+    3300026: lion
+    4300000: Bone01
+    4300002: Bone02
+    4300004: Bone02(mirrored)
+    4300006: Bone03
+    4300008: Bone04
+    4300010: Bone05
+    4300012: Bone06
+    4300014: Bone07
+    4300016: Bone08
+    4300018: Bone09
+    4300020: Bone09(mirrored)
+    4300022: Bone10
+    4300024: Bone10(mirrored)
+    4300026: lion
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

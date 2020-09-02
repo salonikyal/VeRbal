@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 4ac577f7f6094444fae468a44cb3adae
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 036
+    100002: //RootNode
+    100004: ChamferBox01
+    100006: ChamferBox02
+    100008: ChamferBox15
+    100010: ChamferBox17
+    100012: ChamferBox19
+    100014: ChamferBox21
+    100016: ChamferBox22
+    100018: Circle01
+    100020: Circle02
+    100022: Circle03
+    100024: ff
+    100026: Line01
+    100028: Line02
+    100030: Line03
+    100032: Line04
+    100034: Line05
+    100036: Loft05
+    100038: Loft06
+    100040: m
+    100042: Rectan
+    100044: Rectangle02
+    100046: Rectangle03
+    100048: shapes036
+    400000: 036
+    400002: //RootNode
+    400004: ChamferBox01
+    400006: ChamferBox02
+    400008: ChamferBox15
+    400010: ChamferBox17
+    400012: ChamferBox19
+    400014: ChamferBox21
+    400016: ChamferBox22
+    400018: Circle01
+    400020: Circle02
+    400022: Circle03
+    400024: ff
+    400026: Line01
+    400028: Line02
+    400030: Line03
+    400032: Line04
+    400034: Line05
+    400036: Loft05
+    400038: Loft06
+    400040: m
+    400042: Rectan
+    400044: Rectangle02
+    400046: Rectangle03
+    400048: shapes036
+    2100000: No Name
+    2100002: mu2
+    2300000: ChamferBox01
+    2300002: ChamferBox02
+    2300004: ChamferBox15
+    2300006: ChamferBox17
+    2300008: ChamferBox19
+    2300010: ChamferBox21
+    2300012: ChamferBox22
+    2300014: Line02
+    2300016: Line03
+    2300018: Line04
+    2300020: Line05
+    2300022: Loft05
+    2300024: Loft06
+    2300026: Rectan
+    2300028: Rectangle02
+    2300030: Rectangle03
+    3300000: ChamferBox01
+    3300002: ChamferBox02
+    3300004: ChamferBox15
+    3300006: ChamferBox17
+    3300008: ChamferBox19
+    3300010: ChamferBox21
+    3300012: ChamferBox22
+    3300014: Line02
+    3300016: Line03
+    3300018: Line04
+    3300020: Line05
+    3300022: Loft05
+    3300024: Loft06
+    3300026: Rectan
+    3300028: Rectangle02
+    3300030: Rectangle03
+    4300000: Rectangle02
+    4300002: Rectangle03
+    4300004: ChamferBox02
+    4300006: ChamferBox22
+    4300008: Line03
+    4300010: Line02
+    4300012: Line04
+    4300014: Line05
+    4300016: ChamferBox01
+    4300018: ChamferBox19
+    4300020: ChamferBox17
+    4300022: ChamferBox15
+    4300024: ChamferBox21
+    4300026: Loft05
+    4300028: Loft06
+    4300030: Rectan
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

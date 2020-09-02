@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: 12178530d9a892d42b50db0de8bfb2b9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone elefas belly
+    100002: Bone elefas between arms
+    100004: Bone elefas between legs
+    100006: Bone elefas head
+    100008: Bone elefas hip
+    100010: Bone elefas left arm
+    100012: Bone elefas left arm tip
+    100014: Bone elefas left ear
+    100016: Bone elefas left femur
+    100018: Bone elefas left foot
+    100020: Bone elefas left hand
+    100022: Bone elefas left helpi ear
+    100024: Bone elefas left leg tip
+    100026: Bone elefas left meta
+    100028: Bone elefas left shoulder
+    100030: Bone elefas left shouldery
+    100032: Bone elefas left tibia
+    100034: Bone elefas left upperarm
+    100036: Bone elefas left wrist
+    100038: Bone elefas mouth
+    100040: Bone elefas neck 1
+    100042: Bone elefas right arm
+    100044: Bone elefas right arm tip
+    100046: Bone elefas right ear
+    100048: Bone elefas right femur
+    100050: Bone elefas right foot
+    100052: Bone elefas right hand
+    100054: Bone elefas right helpi ear
+    100056: Bone elefas right leg tip
+    100058: Bone elefas right meta
+    100060: Bone elefas right shoulder
+    100062: Bone elefas right shouldery
+    100064: Bone elefas right tibia
+    100066: Bone elefas right upperarm
+    100068: Bone elefas right wrist
+    100070: Bone elefas spine 1
+    100072: Bone elefas spine 2
+    100074: Bone elefas spine 3
+    100076: Bone elefas tail 1
+    100078: Bone elefas tail 2
+    100080: Bone elefas tail 3
+    100082: Bone elefas tail 4
+    100084: Bone elefas tail 5
+    100086: Bone elefas tail 6
+    100088: Bone elefas tail tip
+    100090: Bone elefas trunk 1
+    100092: Bone elefas trunk 2
+    100094: Bone elefas trunk 3
+    100096: Bone elefas trunk 4
+    100098: Bone elefas trunk 5
+    100100: Bone elefas trunk 6
+    100102: Bone elefas trunk 7
+    100104: Bone elefas trunk 8
+    100106: Bone elefas trunk tip
+    100108: Camera01
+    100110: Camera01.Target
+    100112: Camera02
+    100114: Camera02.Target
+    100116: Direct001
+    100118: Direct001.Target
+    100120: Direct002
+    100122: Direct002.Target
+    100124: Ele left eye
+    100126: Ele left tusk
+    100128: Ele mesh
+    100130: Ele right eye
+    100132: Ele right tusk
+    100134: //RootNode
+    100136: Helper elefas head
+    100138: Helper elefas hip
+    100140: Helper elefas left ankle
+    100142: Helper elefas left foot
+    100144: Helper elefas left hand
+    100146: Helper elefas left wrist
+    100148: Helper elefas main
+    100150: Helper elefas right ankle
+    100152: Helper elefas right foot
+    100154: Helper elefas right hand
+    100156: Helper elefas right wrist
+    100158: Helper elefas shoulders
+    100160: Helper elefas spine
+    100162: Helper elefas tail 1
+    100164: Helper elefas tail 2
+    100166: Helper elefas trunk 1
+    100168: Helper elefas trunk 2
+    100170: Helper elefas trunk 3
+    100172: Helper no touch elefa spine 1
+    100174: Helper no touch elefas tail 1
+    100176: IK Chain001
+    100178: IK left ankle Chain
+    100180: IK left foot Chain
+    100182: IK left hand Chain
+    100184: IK left shoulder Chain
+    100186: IK left wrist Chain
+    100188: IK right ankle Chain
+    100190: IK right foot Chain
+    100192: IK right shoulder Chain
+    100194: IK right wrist Chain
+    100196: IK right wrist Chain 1
+    100198: IK spine Chain
+    100200: IK spine line
+    100202: IK tail line
+    100204: Point020
+    100206: Point021
+    400000: Bone elefas belly
+    400002: Bone elefas between arms
+    400004: Bone elefas between legs
+    400006: Bone elefas head
+    400008: Bone elefas hip
+    400010: Bone elefas left arm
+    400012: Bone elefas left arm tip
+    400014: Bone elefas left ear
+    400016: Bone elefas left femur
+    400018: Bone elefas left foot
+    400020: Bone elefas left hand
+    400022: Bone elefas left helpi ear
+    400024: Bone elefas left leg tip
+    400026: Bone elefas left meta
+    400028: Bone elefas left shoulder
+    400030: Bone elefas left shouldery
+    400032: Bone elefas left tibia
+    400034: Bone elefas left upperarm
+    400036: Bone elefas left wrist
+    400038: Bone elefas mouth
+    400040: Bone elefas neck 1
+    400042: Bone elefas right arm
+    400044: Bone elefas right arm tip
+    400046: Bone elefas right ear
+    400048: Bone elefas right femur
+    400050: Bone elefas right foot
+    400052: Bone elefas right hand
+    400054: Bone elefas right helpi ear
+    400056: Bone elefas right leg tip
+    400058: Bone elefas right meta
+    400060: Bone elefas right shoulder
+    400062: Bone elefas right shouldery
+    400064: Bone elefas right tibia
+    400066: Bone elefas right upperarm
+    400068: Bone elefas right wrist
+    400070: Bone elefas spine 1
+    400072: Bone elefas spine 2
+    400074: Bone elefas spine 3
+    400076: Bone elefas tail 1
+    400078: Bone elefas tail 2
+    400080: Bone elefas tail 3
+    400082: Bone elefas tail 4
+    400084: Bone elefas tail 5
+    400086: Bone elefas tail 6
+    400088: Bone elefas tail tip
+    400090: Bone elefas trunk 1
+    400092: Bone elefas trunk 2
+    400094: Bone elefas trunk 3
+    400096: Bone elefas trunk 4
+    400098: Bone elefas trunk 5
+    400100: Bone elefas trunk 6
+    400102: Bone elefas trunk 7
+    400104: Bone elefas trunk 8
+    400106: Bone elefas trunk tip
+    400108: Camera01
+    400110: Camera01.Target
+    400112: Camera02
+    400114: Camera02.Target
+    400116: Direct001
+    400118: Direct001.Target
+    400120: Direct002
+    400122: Direct002.Target
+    400124: Ele left eye
+    400126: Ele left tusk
+    400128: Ele mesh
+    400130: Ele right eye
+    400132: Ele right tusk
+    400134: //RootNode
+    400136: Helper elefas head
+    400138: Helper elefas hip
+    400140: Helper elefas left ankle
+    400142: Helper elefas left foot
+    400144: Helper elefas left hand
+    400146: Helper elefas left wrist
+    400148: Helper elefas main
+    400150: Helper elefas right ankle
+    400152: Helper elefas right foot
+    400154: Helper elefas right hand
+    400156: Helper elefas right wrist
+    400158: Helper elefas shoulders
+    400160: Helper elefas spine
+    400162: Helper elefas tail 1
+    400164: Helper elefas tail 2
+    400166: Helper elefas trunk 1
+    400168: Helper elefas trunk 2
+    400170: Helper elefas trunk 3
+    400172: Helper no touch elefa spine 1
+    400174: Helper no touch elefas tail 1
+    400176: IK Chain001
+    400178: IK left ankle Chain
+    400180: IK left foot Chain
+    400182: IK left hand Chain
+    400184: IK left shoulder Chain
+    400186: IK left wrist Chain
+    400188: IK right ankle Chain
+    400190: IK right foot Chain
+    400192: IK right shoulder Chain
+    400194: IK right wrist Chain
+    400196: IK right wrist Chain 1
+    400198: IK spine Chain
+    400200: IK spine line
+    400202: IK tail line
+    400204: Point020
+    400206: Point021
+    2000000: Camera01
+    2000002: Camera02
+    2100000: ElphSkin
+    2100002: 'Material #26'
+    2100004: Ele_Tuskh
+    2300000: Ele left eye
+    2300002: Ele left tusk
+    2300004: Ele right eye
+    2300006: Ele right tusk
+    3300000: Ele left eye
+    3300002: Ele left tusk
+    3300004: Ele right eye
+    3300006: Ele right tusk
+    4300000: Ele mesh
+    4300002: Ele left eye
+    4300004: Ele right eye
+    4300006: Ele left tusk
+    4300008: Ele right tusk
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Direct001
+    10800002: Direct002
+    13700000: Ele mesh
+    6000828045688606266: Camera01
+    6000828045688606268: Camera02
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

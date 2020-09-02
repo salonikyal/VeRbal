@@ -1,0 +1,794 @@
+fileFormatVersion: 2
+guid: 2a631956928f893428bb330d7919d1db
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bone elefas belly
+  - first:
+      1: 100002
+    second: Bone elefas between arms
+  - first:
+      1: 100004
+    second: Bone elefas between legs
+  - first:
+      1: 100006
+    second: Bone elefas head
+  - first:
+      1: 100008
+    second: Bone elefas hip
+  - first:
+      1: 100010
+    second: Bone elefas left arm
+  - first:
+      1: 100012
+    second: Bone elefas left arm tip
+  - first:
+      1: 100014
+    second: Bone elefas left ear
+  - first:
+      1: 100016
+    second: Bone elefas left femur
+  - first:
+      1: 100018
+    second: Bone elefas left foot
+  - first:
+      1: 100020
+    second: Bone elefas left hand
+  - first:
+      1: 100022
+    second: Bone elefas left helpi ear
+  - first:
+      1: 100024
+    second: Bone elefas left leg tip
+  - first:
+      1: 100026
+    second: Bone elefas left meta
+  - first:
+      1: 100028
+    second: Bone elefas left shoulder
+  - first:
+      1: 100030
+    second: Bone elefas left shouldery
+  - first:
+      1: 100032
+    second: Bone elefas left tibia
+  - first:
+      1: 100034
+    second: Bone elefas left upperarm
+  - first:
+      1: 100036
+    second: Bone elefas left wrist
+  - first:
+      1: 100038
+    second: Bone elefas mouth
+  - first:
+      1: 100040
+    second: Bone elefas neck 1
+  - first:
+      1: 100042
+    second: Bone elefas right arm
+  - first:
+      1: 100044
+    second: Bone elefas right arm tip
+  - first:
+      1: 100046
+    second: Bone elefas right ear
+  - first:
+      1: 100048
+    second: Bone elefas right femur
+  - first:
+      1: 100050
+    second: Bone elefas right foot
+  - first:
+      1: 100052
+    second: Bone elefas right hand
+  - first:
+      1: 100054
+    second: Bone elefas right helpi ear
+  - first:
+      1: 100056
+    second: Bone elefas right leg tip
+  - first:
+      1: 100058
+    second: Bone elefas right meta
+  - first:
+      1: 100060
+    second: Bone elefas right shoulder
+  - first:
+      1: 100062
+    second: Bone elefas right shouldery
+  - first:
+      1: 100064
+    second: Bone elefas right tibia
+  - first:
+      1: 100066
+    second: Bone elefas right upperarm
+  - first:
+      1: 100068
+    second: Bone elefas right wrist
+  - first:
+      1: 100070
+    second: Bone elefas spine 1
+  - first:
+      1: 100072
+    second: Bone elefas spine 2
+  - first:
+      1: 100074
+    second: Bone elefas spine 3
+  - first:
+      1: 100076
+    second: Bone elefas tail 1
+  - first:
+      1: 100078
+    second: Bone elefas tail 2
+  - first:
+      1: 100080
+    second: Bone elefas tail 3
+  - first:
+      1: 100082
+    second: Bone elefas tail 4
+  - first:
+      1: 100084
+    second: Bone elefas tail 5
+  - first:
+      1: 100086
+    second: Bone elefas tail 6
+  - first:
+      1: 100088
+    second: Bone elefas tail tip
+  - first:
+      1: 100090
+    second: Bone elefas trunk 1
+  - first:
+      1: 100092
+    second: Bone elefas trunk 2
+  - first:
+      1: 100094
+    second: Bone elefas trunk 3
+  - first:
+      1: 100096
+    second: Bone elefas trunk 4
+  - first:
+      1: 100098
+    second: Bone elefas trunk 5
+  - first:
+      1: 100100
+    second: Bone elefas trunk 6
+  - first:
+      1: 100102
+    second: Bone elefas trunk 7
+  - first:
+      1: 100104
+    second: Bone elefas trunk 8
+  - first:
+      1: 100106
+    second: Bone elefas trunk tip
+  - first:
+      1: 100108
+    second: Camera01
+  - first:
+      1: 100110
+    second: Camera01.Target
+  - first:
+      1: 100112
+    second: Camera02
+  - first:
+      1: 100114
+    second: Camera02.Target
+  - first:
+      1: 100116
+    second: Direct001
+  - first:
+      1: 100118
+    second: Direct001.Target
+  - first:
+      1: 100120
+    second: Direct002
+  - first:
+      1: 100122
+    second: Direct002.Target
+  - first:
+      1: 100124
+    second: Ele left eye
+  - first:
+      1: 100126
+    second: Ele left tusk
+  - first:
+      1: 100128
+    second: Ele mesh
+  - first:
+      1: 100130
+    second: Ele right eye
+  - first:
+      1: 100132
+    second: Ele right tusk
+  - first:
+      1: 100134
+    second: //RootNode
+  - first:
+      1: 100136
+    second: Helper elefas head
+  - first:
+      1: 100138
+    second: Helper elefas hip
+  - first:
+      1: 100140
+    second: Helper elefas left ankle
+  - first:
+      1: 100142
+    second: Helper elefas left foot
+  - first:
+      1: 100144
+    second: Helper elefas left hand
+  - first:
+      1: 100146
+    second: Helper elefas left wrist
+  - first:
+      1: 100148
+    second: Helper elefas main
+  - first:
+      1: 100150
+    second: Helper elefas right ankle
+  - first:
+      1: 100152
+    second: Helper elefas right foot
+  - first:
+      1: 100154
+    second: Helper elefas right hand
+  - first:
+      1: 100156
+    second: Helper elefas right wrist
+  - first:
+      1: 100158
+    second: Helper elefas shoulders
+  - first:
+      1: 100160
+    second: Helper elefas spine
+  - first:
+      1: 100162
+    second: Helper elefas tail 1
+  - first:
+      1: 100164
+    second: Helper elefas tail 2
+  - first:
+      1: 100166
+    second: Helper elefas trunk 1
+  - first:
+      1: 100168
+    second: Helper elefas trunk 2
+  - first:
+      1: 100170
+    second: Helper elefas trunk 3
+  - first:
+      1: 100172
+    second: Helper no touch elefa spine 1
+  - first:
+      1: 100174
+    second: Helper no touch elefas tail 1
+  - first:
+      1: 100176
+    second: IK Chain001
+  - first:
+      1: 100178
+    second: IK left ankle Chain
+  - first:
+      1: 100180
+    second: IK left foot Chain
+  - first:
+      1: 100182
+    second: IK left hand Chain
+  - first:
+      1: 100184
+    second: IK left shoulder Chain
+  - first:
+      1: 100186
+    second: IK left wrist Chain
+  - first:
+      1: 100188
+    second: IK right ankle Chain
+  - first:
+      1: 100190
+    second: IK right foot Chain
+  - first:
+      1: 100192
+    second: IK right shoulder Chain
+  - first:
+      1: 100194
+    second: IK right wrist Chain
+  - first:
+      1: 100196
+    second: IK right wrist Chain 1
+  - first:
+      1: 100198
+    second: IK spine Chain
+  - first:
+      1: 100200
+    second: IK spine line
+  - first:
+      1: 100202
+    second: IK tail line
+  - first:
+      1: 100204
+    second: Point020
+  - first:
+      1: 100206
+    second: Point021
+  - first:
+      4: 400000
+    second: Bone elefas belly
+  - first:
+      4: 400002
+    second: Bone elefas between arms
+  - first:
+      4: 400004
+    second: Bone elefas between legs
+  - first:
+      4: 400006
+    second: Bone elefas head
+  - first:
+      4: 400008
+    second: Bone elefas hip
+  - first:
+      4: 400010
+    second: Bone elefas left arm
+  - first:
+      4: 400012
+    second: Bone elefas left arm tip
+  - first:
+      4: 400014
+    second: Bone elefas left ear
+  - first:
+      4: 400016
+    second: Bone elefas left femur
+  - first:
+      4: 400018
+    second: Bone elefas left foot
+  - first:
+      4: 400020
+    second: Bone elefas left hand
+  - first:
+      4: 400022
+    second: Bone elefas left helpi ear
+  - first:
+      4: 400024
+    second: Bone elefas left leg tip
+  - first:
+      4: 400026
+    second: Bone elefas left meta
+  - first:
+      4: 400028
+    second: Bone elefas left shoulder
+  - first:
+      4: 400030
+    second: Bone elefas left shouldery
+  - first:
+      4: 400032
+    second: Bone elefas left tibia
+  - first:
+      4: 400034
+    second: Bone elefas left upperarm
+  - first:
+      4: 400036
+    second: Bone elefas left wrist
+  - first:
+      4: 400038
+    second: Bone elefas mouth
+  - first:
+      4: 400040
+    second: Bone elefas neck 1
+  - first:
+      4: 400042
+    second: Bone elefas right arm
+  - first:
+      4: 400044
+    second: Bone elefas right arm tip
+  - first:
+      4: 400046
+    second: Bone elefas right ear
+  - first:
+      4: 400048
+    second: Bone elefas right femur
+  - first:
+      4: 400050
+    second: Bone elefas right foot
+  - first:
+      4: 400052
+    second: Bone elefas right hand
+  - first:
+      4: 400054
+    second: Bone elefas right helpi ear
+  - first:
+      4: 400056
+    second: Bone elefas right leg tip
+  - first:
+      4: 400058
+    second: Bone elefas right meta
+  - first:
+      4: 400060
+    second: Bone elefas right shoulder
+  - first:
+      4: 400062
+    second: Bone elefas right shouldery
+  - first:
+      4: 400064
+    second: Bone elefas right tibia
+  - first:
+      4: 400066
+    second: Bone elefas right upperarm
+  - first:
+      4: 400068
+    second: Bone elefas right wrist
+  - first:
+      4: 400070
+    second: Bone elefas spine 1
+  - first:
+      4: 400072
+    second: Bone elefas spine 2
+  - first:
+      4: 400074
+    second: Bone elefas spine 3
+  - first:
+      4: 400076
+    second: Bone elefas tail 1
+  - first:
+      4: 400078
+    second: Bone elefas tail 2
+  - first:
+      4: 400080
+    second: Bone elefas tail 3
+  - first:
+      4: 400082
+    second: Bone elefas tail 4
+  - first:
+      4: 400084
+    second: Bone elefas tail 5
+  - first:
+      4: 400086
+    second: Bone elefas tail 6
+  - first:
+      4: 400088
+    second: Bone elefas tail tip
+  - first:
+      4: 400090
+    second: Bone elefas trunk 1
+  - first:
+      4: 400092
+    second: Bone elefas trunk 2
+  - first:
+      4: 400094
+    second: Bone elefas trunk 3
+  - first:
+      4: 400096
+    second: Bone elefas trunk 4
+  - first:
+      4: 400098
+    second: Bone elefas trunk 5
+  - first:
+      4: 400100
+    second: Bone elefas trunk 6
+  - first:
+      4: 400102
+    second: Bone elefas trunk 7
+  - first:
+      4: 400104
+    second: Bone elefas trunk 8
+  - first:
+      4: 400106
+    second: Bone elefas trunk tip
+  - first:
+      4: 400108
+    second: Camera01
+  - first:
+      4: 400110
+    second: Camera01.Target
+  - first:
+      4: 400112
+    second: Camera02
+  - first:
+      4: 400114
+    second: Camera02.Target
+  - first:
+      4: 400116
+    second: Direct001
+  - first:
+      4: 400118
+    second: Direct001.Target
+  - first:
+      4: 400120
+    second: Direct002
+  - first:
+      4: 400122
+    second: Direct002.Target
+  - first:
+      4: 400124
+    second: Ele left eye
+  - first:
+      4: 400126
+    second: Ele left tusk
+  - first:
+      4: 400128
+    second: Ele mesh
+  - first:
+      4: 400130
+    second: Ele right eye
+  - first:
+      4: 400132
+    second: Ele right tusk
+  - first:
+      4: 400134
+    second: //RootNode
+  - first:
+      4: 400136
+    second: Helper elefas head
+  - first:
+      4: 400138
+    second: Helper elefas hip
+  - first:
+      4: 400140
+    second: Helper elefas left ankle
+  - first:
+      4: 400142
+    second: Helper elefas left foot
+  - first:
+      4: 400144
+    second: Helper elefas left hand
+  - first:
+      4: 400146
+    second: Helper elefas left wrist
+  - first:
+      4: 400148
+    second: Helper elefas main
+  - first:
+      4: 400150
+    second: Helper elefas right ankle
+  - first:
+      4: 400152
+    second: Helper elefas right foot
+  - first:
+      4: 400154
+    second: Helper elefas right hand
+  - first:
+      4: 400156
+    second: Helper elefas right wrist
+  - first:
+      4: 400158
+    second: Helper elefas shoulders
+  - first:
+      4: 400160
+    second: Helper elefas spine
+  - first:
+      4: 400162
+    second: Helper elefas tail 1
+  - first:
+      4: 400164
+    second: Helper elefas tail 2
+  - first:
+      4: 400166
+    second: Helper elefas trunk 1
+  - first:
+      4: 400168
+    second: Helper elefas trunk 2
+  - first:
+      4: 400170
+    second: Helper elefas trunk 3
+  - first:
+      4: 400172
+    second: Helper no touch elefa spine 1
+  - first:
+      4: 400174
+    second: Helper no touch elefas tail 1
+  - first:
+      4: 400176
+    second: IK Chain001
+  - first:
+      4: 400178
+    second: IK left ankle Chain
+  - first:
+      4: 400180
+    second: IK left foot Chain
+  - first:
+      4: 400182
+    second: IK left hand Chain
+  - first:
+      4: 400184
+    second: IK left shoulder Chain
+  - first:
+      4: 400186
+    second: IK left wrist Chain
+  - first:
+      4: 400188
+    second: IK right ankle Chain
+  - first:
+      4: 400190
+    second: IK right foot Chain
+  - first:
+      4: 400192
+    second: IK right shoulder Chain
+  - first:
+      4: 400194
+    second: IK right wrist Chain
+  - first:
+      4: 400196
+    second: IK right wrist Chain 1
+  - first:
+      4: 400198
+    second: IK spine Chain
+  - first:
+      4: 400200
+    second: IK spine line
+  - first:
+      4: 400202
+    second: IK tail line
+  - first:
+      4: 400204
+    second: Point020
+  - first:
+      4: 400206
+    second: Point021
+  - first:
+      20: 2000000
+    second: Camera01
+  - first:
+      20: 2000002
+    second: Camera02
+  - first:
+      21: 2100000
+    second: ElphSkin
+  - first:
+      21: 2100002
+    second: 'Material #26'
+  - first:
+      21: 2100004
+    second: Ele_Tuskh
+  - first:
+      23: 2300000
+    second: Ele left eye
+  - first:
+      23: 2300002
+    second: Ele left tusk
+  - first:
+      23: 2300004
+    second: Ele right eye
+  - first:
+      23: 2300006
+    second: Ele right tusk
+  - first:
+      33: 3300000
+    second: Ele left eye
+  - first:
+      33: 3300002
+    second: Ele left tusk
+  - first:
+      33: 3300004
+    second: Ele right eye
+  - first:
+      33: 3300006
+    second: Ele right tusk
+  - first:
+      43: 4300000
+    second: Ele mesh
+  - first:
+      43: 4300002
+    second: Ele left eye
+  - first:
+      43: 4300004
+    second: Ele right eye
+  - first:
+      43: 4300006
+    second: Ele left tusk
+  - first:
+      43: 4300008
+    second: Ele right tusk
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      108: 10800000
+    second: Direct001
+  - first:
+      108: 10800002
+    second: Direct002
+  - first:
+      137: 13700000
+    second: Ele mesh
+  - first:
+      1183024399: 6000828045688606266
+    second: Camera01
+  - first:
+      1183024399: 6000828045688606268
+    second: Camera02
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
