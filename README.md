@@ -1,7 +1,7 @@
+# VeRbal
 <p float="center">
 <img src="/Screenshots/logo.jpg" width="50">
 </p>
-# VeRbal
 A game with a Virtual Reality view for children to learn lingustic skills made using Unity. <br>
 
 This game works as an auditory and visual stimulus to improve children's linguistic ability. The game can also be monitored by caretakers or parents via a desktop interface. It has two main parts:<br>
