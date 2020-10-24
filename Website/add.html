@@ -1,0 +1,88 @@
+<html>
+	<head>
+		<title>Dashboard</title>
+		<link href="style_dash.css" type="text/css" rel="stylesheet">
+		<style>
+			input {
+			background-color: rgba(0,0,0,0.1);
+			color: red;
+			border: none;
+			}
+		</style>
+	</head>
+	<body>
+		<!-- Sidebar -->
+		<div id="sidebar" >
+			<header>
+				<img src="logo.png" height="100px" width="120px">
+			</header>
+			<div class="nav" >
+				<a href="Children.html">
+					Children
+				</a>
+				<a href="AddNewChild.html">
+					Add new Child
+				</a>
+				<a href="AddNewTherapist.html">
+					Add new Therapist
+				</a>
+			</div>
+		</div>
+		<div id="display">
+			<br>
+			<label for="game">Choose the type of game:</label>
+			<select id="game">
+				 <option value="" disabled selected>Choose one</option>
+				 <option value="Story">Training</option>
+				 <option value="Easy_Test">Easy Test</option>
+				 <option value="Hard_Test">Hard Test</option>
+			</select>
+			<br><br>
+
+			<img src="start.png" height="50px" width="50px" onclick="getOptionAndGenerateID()"> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+			<img src="stop.png" height="50px" width="50px" hspace="40"> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp  
+			<img src="upload.png" height="50px" width="50px"><br>
+
+			<p> Start &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+			Stop  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+			Upload</p>
+
+			<input type ="submit" value="">
+			<br><br>
+			<center><img id="stream" src ="" height="" width="" alt="Unity Live Streaming"></center>
+		</div>
+		
+		<script>
+		function getOptionAndGenerateID() {
+		
+			var ws = new WebSocket('ws://localhost:3000');
+			selectElement =  document.querySelector('#game');  
+			output = selectElement.value;
+			
+			const inp = document.querySelector('input');
+			var number = Math.random();
+			number.toString(36);
+			var id = number.toString(36).substr(2, 9);
+			id.length >= 9;
+			inp.value = "Your Session ID: " + id + " and the type of game is: " +output;
+			//console.log( "Your Session ID:" + id + output);
+			
+			const img = document.images['stream'];
+			var jsonRes;
+			ws.onopen = () => console.log('WebSocket Client Connected');
+			ws.onmessage = function(event) {
+				jsonRes = JSON.parse(event.data);
+				console.log(jsonRes.data.width);
+				img.src = jsonRes.data.frame;
+				img.width = jsonRes.data.width;
+				img.height = jsonRes.data.height;
+				ws.send(output);
+				ws.onclose= function(){
+					ws = null;
+					setTimeout(getOptionAndGenerateID, 1000);
+				}
+			}
+		}
+		</script>
+	</body>
+</html>
