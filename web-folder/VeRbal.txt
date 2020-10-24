@@ -1,7 +1,0 @@
-VeRbal - ConVRsational
-Virtual Reality
-
-VeRbal helps children learn linguistic skills with fun. In a Virtual Reality environment, children have to match images and objects to sentences they listen to. By moving their head, children will try to select the right object out of up to 3 possibilities. This way, VeRbal transforms the already existing sentence-image matching therapy from a "boring" 2D paper exercise into an interactive and encouraging 3D experience. VeRbal is divided into two game modes: 
-- a practice mode which tells a continues cheerful horse story and corrects wrong choices. 
-- a test mode, where each sentences tests the ability of tell different characters apart.
-Additional to the improved fun for the children, the caretaker gets useful data, which is collected while playing.
