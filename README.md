@@ -3,11 +3,11 @@ A game with a Virtual Reality view for children to learn lingustic skills made u
 
 This game works as an auditory and visual stimulus to improve children's linguistic ability. The game can also be monitored by caretakers or parents via a desktop interface. It has two main parts:<br>
 1. **Android application:** A mobile VR game which creates an engaging study experience for children by incorporating a mobile device, cardboard glasses, and an audio headset. Child can hear and read the sentence on the screen and select the matching 3-D model by gazing at it for atleast 3 seconds. The game has 2 modes:<br>
-Markup : * Training Mode: This mode is to train the children and help them learn the game by providing feedbacks to the child for correct and incorrect answers. A beautiful story is narrated during the entire training process.<br>
+* Training Mode: This mode is to train the children and help them learn the game by providing feedbacks to the child for correct and incorrect answers. A beautiful story is narrated during the entire training process.<br>
 <p float="center">
 <img src="/Screenshot/1.jpg" width="600">
 </p>
-Markup : * Test Mode: This mode is to examine the child. The score of the test is sent to the server and is visible to the caretakers/parents in the desktop interface. <br>
+* Test Mode: This mode is to examine the child. The score of the test is sent to the server and is visible to the caretakers/parents in the desktop interface. <br>
 <p float="center">
 <img src="/Screenshot/2.jpg" width="600">
 </p>
