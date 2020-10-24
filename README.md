@@ -10,10 +10,12 @@ This game works as an auditory and visual stimulus to improve children's linguis
 <p float="center">
 <img src="/Screenshots/1.jpg" width="600">
 </p><br>
+
 * Test Mode: This mode is to examine the child. The score of the test is sent to the server and is visible to the caretakers/parents in the desktop interface. <br>
 <p float="center">
 <img src="/Screenshots/2.jpg" width="600">
-</p><br>
+</p>
+
 2. **Website:** The website can be used by caretakers or parents to visualize and control the VR game in order to assess and monitor the children. The live data on the mobile VR game can be seen by them and the relevant monitoring data recieved from the servers is also monitored. They have full access to start/stop the game.
 <p float="center">
 <img src="/Screenshots/3.jpg" width="600">
