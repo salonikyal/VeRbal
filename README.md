@@ -1,5 +1,3 @@
-<img src="/Screenshots/logo.PNG" width="50">
-
 # VeRbal
 
 A game with a Virtual Reality view for children to learn lingustic skills made using Unity. <br>
